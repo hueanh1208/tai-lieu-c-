@@ -1,0 +1,11 @@
+Tong so hoc sinh: 1
+
+SAP XEP THEO DIEM TRUNG BINH TANG DAN 	
+HOC SINH THU 1	
+Ho ten hoc sinh: phan hue anh	
+Ngay sinh: 4	
+Diem toan: 4	
+Diem van: 5	
+Diem anh van: 7	
+Diem trung binh:5.33333	
+Xep loai: trung binh
